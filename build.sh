@@ -1,0 +1,1 @@
+g++ bindCore.cpp -lpthread
